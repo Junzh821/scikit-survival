@@ -60,7 +60,7 @@ def setup_package():
                         'cvxpy',
                         'numexpr',
                         'numpy',
-                        'pandas >=0.19, <0.22',
+                        'pandas >=0.19, <0.23',
                         'scipy',
                         'scikit-learn >=0.19.0, <0.20'],
                     extras_require={
